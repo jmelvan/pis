@@ -8,6 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Maknuta linija");
+            Console.WriteLine("Creating conflict");
         }
     }
 }
